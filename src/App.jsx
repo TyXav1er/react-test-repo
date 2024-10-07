@@ -1,7 +1,7 @@
-import Button from './Components/Button2'
+import MyComponent from './Components/MyComponent'
 
 function App() {
-return (<Button />)
+  return (<MyComponent />)
 }
 
 export default App;
