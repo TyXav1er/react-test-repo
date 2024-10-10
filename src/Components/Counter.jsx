@@ -1,3 +1,5 @@
+// onClick is a react hook that allows the creation of a stateful variable AND a setter function to update its value in the virtual DOM. [name, setName]
+
 import React, {useState} from 'react'
 
 function Counter() {

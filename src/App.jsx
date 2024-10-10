@@ -1,7 +1,6 @@
-import Counter from './Components/Counter'
-
+import ToDoList from './Components/ToDoList'
 function App() {
-  return (<Counter />)
+  return (<ToDoList />)
 }
 
 export default App;
