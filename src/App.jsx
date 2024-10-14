@@ -12,12 +12,11 @@
 //    import { MyContext } from './ComponentA'
 // 2. const value = useContext(MyContext)
 
-import ComponentA from "./Components/ComponentA";
-import React from "react";
+import Stopwatch from './Components/Stopwatch'
 
 function App() {
   return (<>
-    <ComponentA />
+    <Stopwatch />
   </>)
 }
 
